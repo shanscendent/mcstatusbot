@@ -1,0 +1,4 @@
+env/
+.vscode
+test.py
+mcbot.conf
